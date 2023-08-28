@@ -1,4 +1,4 @@
 print("Hello Git!")
 print("Hello again!")
 
-print("Madalin are un papagal")
+print("Madalin il are pe Paco.")
